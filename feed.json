@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "洛卿",
+    "home_page_url": "https://www.icn.asia/",
+    "feed_url": "https://www.icn.asia/feed.json",
+    "description": "华风夏韵 洛水天依",
+    "icon": "https://avatars.githubusercontent.com/u/79364623",
+    "author": {
+        "name": "惟依",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<div style=\"text-align:center;font-family:KaiTi;color:red\">你好, 朋友!</div>\n<div style=\"text-align:ce",
+            "url": "https://www.icn.asia/posts/hi",
+            "title": "你好, 朋友!",
+            "date_modified": "2024-01-01T00:00:00.000Z",
+            "date_published": "2024-01-01T00:00:00.000Z",
+            "author": {
+                "name": "惟依",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
