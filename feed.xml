@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>休伯利安</title>
+        <link>https://www.icn.asia/</link>
+        <description>永恒轮回的不沉之船</description>
+        <lastBuildDate>Tue, 06 Aug 2024 05:00:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>休伯利安</title>
+            <url>https://www.icn.asia/avatar.jpg</url>
+            <link>https://www.icn.asia/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 方仲</copyright>
+        <atom:link href="https://www.icn.asia/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[原神]]></title>
+            <link>https://www.icn.asia/posts/mihoyo/ys</link>
+            <guid>https://www.icn.asia/posts/mihoyo/ys</guid>
+            <pubDate>Tue, 06 Aug 2024 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>「欢迎来到提瓦特」2020年09月17日，异世的旅行者「荧」来到了提瓦特大陆</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/mihoyo/ys" target="_blank">https://www.icn.asia/posts/mihoyo/ys</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (方仲)</author>
+        </item>
+        <item>
+            <title><![CDATA[绝区零]]></title>
+            <link>https://www.icn.asia/posts/mihoyo/zzz</link>
+            <guid>https://www.icn.asia/posts/mihoyo/zzz</guid>
+            <pubDate>Tue, 06 Aug 2024 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>2024年07月24日，注册绳网账号「解放新艾利都」</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/mihoyo/zzz" target="_blank">https://www.icn.asia/posts/mihoyo/zzz</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (方仲)</author>
+        </item>
+        <item>
+            <title><![CDATA[零]]></title>
+            <link>https://www.icn.asia/posts/0</link>
+            <guid>https://www.icn.asia/posts/0</guid>
+            <pubDate>Tue, 06 Aug 2024 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>你干嘛～啊～哈哈～哎‌‌‌‌‌‌‌‌‌哟～</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/0" target="_blank">https://www.icn.asia/posts/0</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (方仲)</author>
+        </item>
+        <item>
+            <title><![CDATA[崩坏3]]></title>
+            <link>https://www.icn.asia/posts/mihoyo/bh3</link>
+            <guid>https://www.icn.asia/posts/mihoyo/bh3</guid>
+            <pubDate>Tue, 06 Aug 2024 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>数据库资料：舰长于 2021-03-30 首次登陆休伯利安</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/mihoyo/bh3" target="_blank">https://www.icn.asia/posts/mihoyo/bh3</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (方仲)</author>
+        </item>
+        <item>
+            <title><![CDATA[崩坏：星穹铁道]]></title>
+            <link>https://www.icn.asia/posts/mihoyo/sr</link>
+            <guid>https://www.icn.asia/posts/mihoyo/sr</guid>
+            <pubDate>Tue, 06 Aug 2024 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>2023年04月26日，星在空间站睁开双眼。「体内存放着一颗星核，将会前往怎样的未来？」抱着如此的迷茫，你接受了星穹列车的邀请，就此踏上「开拓」的旅途————</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/mihoyo/sr" target="_blank">https://www.icn.asia/posts/mihoyo/sr</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (方仲)</author>
+        </item>
+        <item>
+            <title><![CDATA[你好, 朋友!]]></title>
+            <link>https://www.icn.asia/posts/hi</link>
+            <guid>https://www.icn.asia/posts/hi</guid>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="text-align:center;font-family:KaiTi;color:red">你好, 朋友!</div>
+<div style="text-align:ce<br/><p>访问 <a href="https://www.icn.asia/posts/hi" target="_blank">https://www.icn.asia/posts/hi</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (方仲)</author>
+        </item>
+    </channel>
+</rss>
