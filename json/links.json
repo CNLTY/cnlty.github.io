@@ -1,0 +1,18 @@
+[
+    {
+        "url": "https://www.fanghsiu.top/",
+        "avatar": "https://www.fanghsiu.top/images/avatar.png",
+        "name": "方脩",
+        "blog": "方脩的随笔",
+        "desc": "方脩的随笔",
+        "color": "#66ccff"
+    },
+    {
+        "url": "https://wiki.fanghsiu.top",
+        "avatar": "https://wiki.fanghsiu.top/images/logo.svg",
+        "name": "WiKi",
+        "blog": "FangHsiu's WiKi",
+        "desc": "由 VitePress 生成的静态 WiKi 网站",
+        "color": "#66ccff"
+    }
+]
