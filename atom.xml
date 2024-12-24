@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.icn.asia/</id>
+    <title>叶落知秋</title>
+    <updated>2024-12-24T12:28:00.448Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>方柊</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://www.icn.asia/"/>
+    <link rel="self" href="https://www.icn.asia/atom.xml"/>
+    <subtitle>一叶落知天下秋</subtitle>
+    <logo>https://www.icn.asia/avatar.jpg</logo>
+    <icon>https://www.icn.asia/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 方柊</rights>
+    <entry>
+        <title type="html"><![CDATA[China]]></title>
+        <id>https://www.icn.asia/posts/China</id>
+        <link href="https://www.icn.asia/posts/China"/>
+        <updated>2024-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>国歌《义勇军进行曲》</h2>
+<p>&lt;meting-js<br>
+server=&quot;tencent&quot;<br>
+type=&quot;song&quot;<br>
+id=&quot;003h45Yk3yWjLk&quot;<br>
+autopl</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/China" target="_blank">https://www.icn.asia/posts/China</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>方柊</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-12-24T12:27:20.505Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[功能测试]]></title>
+        <id>https://www.icn.asia/posts/test</id>
+        <link href="https://www.icn.asia/posts/test"/>
+        <updated>2024-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Katex</h2>
+<ul>
+<li><a href="https://katex.org">https://katex.org</a></li>
+<li><a href="https://katex.org/docs/supported.html">Supported Functions</a></li>
+<li>[Su</li>
+</ul>
+<br/><p>访问 <a href="https://www.icn.asia/posts/test" target="_blank">https://www.icn.asia/posts/test</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>方柊</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-12-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零]]></title>
+        <id>https://www.icn.asia/posts/0</id>
+        <link href="https://www.icn.asia/posts/0"/>
+        <updated>2024-11-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>你干嘛～啊～哈哈～哎‌‌‌‌‌‌‌‌‌哟～</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/0" target="_blank">https://www.icn.asia/posts/0</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>方柊</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-11-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原神]]></title>
+        <id>https://www.icn.asia/posts/mihoyo/ys</id>
+        <link href="https://www.icn.asia/posts/mihoyo/ys"/>
+        <updated>2020-09-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>「欢迎来到提瓦特」2020年09月17日，异世的旅行者「荧」来到了提瓦特大陆</p>
+<p>2024年08月20日 卸载退游。</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/mihoyo/ys" target="_blank">https://www.icn.asia/posts/mihoyo/ys</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>方柊</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绝区零]]></title>
+        <id>https://www.icn.asia/posts/mihoyo/zzz</id>
+        <link href="https://www.icn.asia/posts/mihoyo/zzz"/>
+        <updated>2024-07-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>2024年07月04日，注册绳网账号「解放新艾利都」</p>
+<p>2024年08月10日，卸载退游。</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/mihoyo/zzz" target="_blank">https://www.icn.asia/posts/mihoyo/zzz</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>方柊</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你好, 朋友!]]></title>
+        <id>https://www.icn.asia/posts/hi</id>
+        <link href="https://www.icn.asia/posts/hi"/>
+        <updated>2024-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div style="text-align:center;font-family:KaiTi;color:red">你好, 朋友!</div>
+<div style="text-align:ce<br/><p>访问 <a href="https://www.icn.asia/posts/hi" target="_blank">https://www.icn.asia/posts/hi</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>方柊</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[崩坏：星穹铁道]]></title>
+        <id>https://www.icn.asia/posts/mihoyo/sr</id>
+        <link href="https://www.icn.asia/posts/mihoyo/sr"/>
+        <updated>2023-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>2023年04月26日，星在空间站睁开双眼。「体内存放着一颗星核，将会前往怎样的未来？」抱着如此的迷茫，你接受了星穹列车的邀请，就此踏上「开拓」的旅途————</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/mihoyo/sr" target="_blank">https://www.icn.asia/posts/mihoyo/sr</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>方柊</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[崩坏3]]></title>
+        <id>https://www.icn.asia/posts/mihoyo/bh3</id>
+        <link href="https://www.icn.asia/posts/mihoyo/bh3"/>
+        <updated>2021-03-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>数据库资料：舰长于 2021-03-30 首次登陆休伯利安</p>
+<p>永恒轮回的不沉之船<br>
+休伯利安启航<br>
+为世界上所有的美好而战</p>
+<p>:::details Kevin Kaslana  凯文·卡斯兰</p>
+<br/><p>访问 <a href="https://www.icn.asia/posts/mihoyo/bh3" target="_blank">https://www.icn.asia/posts/mihoyo/bh3</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>方柊</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-03-20T00:00:00.000Z</published>
+    </entry>
+</feed>
